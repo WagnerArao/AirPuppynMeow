@@ -1,0 +1,4 @@
+name: php-course
+recipe: lamp
+config:
+  webroot: .
